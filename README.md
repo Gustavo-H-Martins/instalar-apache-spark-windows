@@ -71,7 +71,7 @@ Você deve ver a interface do [Spark disponível no seu navegador.]()
 
 ## 🧾 Licença
 Este projeto é free. 
-Consulte o arquivo [LICENSE](LICENCE) para mais detalhes.
+Consulte o arquivo [LICENSE](./LICENCE) para mais detalhes.
 
 ## 🧑🏽 Colaboradores
 Este projeto foi criado por:
